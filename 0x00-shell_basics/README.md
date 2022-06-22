@@ -1,1 +1,1 @@
-display the contents list of the current directory
+There is no place like home
