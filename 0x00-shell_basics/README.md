@@ -1,1 +1,1 @@
-To see where I am
+display the contents list of the current directory
