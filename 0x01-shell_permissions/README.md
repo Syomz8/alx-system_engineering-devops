@@ -1,1 +1,1 @@
-My name is betty
+I am
