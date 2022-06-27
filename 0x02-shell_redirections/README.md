@@ -1,1 +1,1 @@
-reverse input
+dj cut killer
