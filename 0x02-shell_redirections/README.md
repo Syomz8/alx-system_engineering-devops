@@ -1,1 +1,1 @@
-dont count your directories
+display ten newest files
