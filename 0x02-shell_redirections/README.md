@@ -1,1 +1,1 @@
-pattern root display
+count that word
