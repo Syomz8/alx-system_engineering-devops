@@ -1,1 +1,1 @@
-path to success
+local variables
